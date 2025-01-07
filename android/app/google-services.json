@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "976845575777",
+    "project_id": "sec-e-comm",
+    "storage_bucket": "sec-e-comm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976845575777:android:de055d0d80b0ecaf807c20",
+        "android_client_info": {
+          "package_name": "io.wheezedev.sececommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlkxZ601jZorZ_8AWfAGTxDJU7a5N4YsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
